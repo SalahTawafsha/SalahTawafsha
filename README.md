@@ -1,8 +1,9 @@
-<h1 style="text-align: center">Hi I'm Salah Tawafsha 👋👋</h1>
+# Hi I'm Salah Tawafsha 👋👋
 
-<p>Welcome to my profile! I'm a Software Developer studying Computer Science at <a href="https://www.birzeit.edu/">Birzeit University</a> ...</p>
+<p>I am a Software Developer holding a Bachelor's degree in Computer Science from 
+Birzeit University</p>
 
-<h2>SKILLS 💻</h2>
+## SKILLS 💻
 
 ### Programming Languages
 
@@ -32,18 +33,3 @@
 
 
 <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalahTawafsha&layout=compact&show_icons=true&hide_border=true&bg_color=2e2751&text_color=9092AB&title_color=d92959&icon_color=d92959&border_radius=20" height=200/>
-
-<!--
-**SalahTawafsha/SalahTawafsha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
