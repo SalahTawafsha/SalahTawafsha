@@ -31,5 +31,10 @@ Birzeit University</p>
 [![PyTest](https://img.shields.io/badge/PyTest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)](https://docs.pytest.org/en/latest/) &nbsp; &nbsp;
 [![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)](https://www.selenium.dev/) &nbsp; &nbsp;
 
-
+## GitHub Status 👀
 <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalahTawafsha&layout=compact&show_icons=true&hide_border=true&bg_color=2e2751&text_color=9092AB&title_color=d92959&icon_color=d92959&border_radius=20" height=200/>
+
+### Visirors count From 17/7/2024
+<div>
+  <img src="https://profile-counter.glitch.me/SalahTawafsha/count.svg"></img>
+</div>
